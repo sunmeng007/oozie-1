@@ -39,7 +39,7 @@
     </organization>
 
     <properties>
-        <javaVersion>1.6</javaVersion>
+        <javaVersion>1.7</javaVersion>
         <targetJavaVersion>1.6</targetJavaVersion>
 
         <distMgmtSnapshotsName>Apache Development Snapshot Repository</distMgmtSnapshotsName>
