@@ -31,13 +31,13 @@
     <name>Apache Oozie Hadoop Libs</name>
     <packaging>pom</packaging>
 
-    <modules>
-        <!-- 
-<module>hadoop-1</module>
+    <modules> 
+        <module>hadoop-1</module>
         <module>hadoop-distcp-1</module>
         <module>hadoop-test-1</module>
         <module>hadoop-utils-1</module>
-        <module>hadoop-2</module>
+        <!-- 
+<module>hadoop-2</module>
         <module>hadoop-test-2</module>
         <module>hadoop-distcp-2</module>
         <module>hadoop-utils-2</module>
